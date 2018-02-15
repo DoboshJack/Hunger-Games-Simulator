@@ -1,0 +1,1 @@
+print(bin(6).replace('1','')=='0b')
