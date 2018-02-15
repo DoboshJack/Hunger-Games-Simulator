@@ -1,3 +1,5 @@
+#AUTHOR: Jack Dobosh
+
 import random
 CharList = [0, 1, 2, 3, 4]
 Store = []
